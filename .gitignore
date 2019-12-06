@@ -60,6 +60,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage*.mp4
+*.app
 
 #Videos
 *.mp4
