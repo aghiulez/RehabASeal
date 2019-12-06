@@ -3,8 +3,6 @@
 
 
 ## Folder Structure 
-============================
-
 > Folder structure of RehabASeal
 
 ### Top-level directory layout
