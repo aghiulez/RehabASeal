@@ -1,15 +1,39 @@
 fileFormatVersion: 2
-guid: 1df47023214b94e458ff490e0855045b
+guid: e98f0eba3e3c24423a95a3f983eeea56
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: RaptorTreatment_0
-    21300002: RaptorTreatment_1
-    21300004: RaptorTreatment_2
-    21300006: RaptorTreatment_3
-    21300008: RaptorTreatment_4
-    21300010: RaptorTreatment_5
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: RaptorSpriteSheet_0
+  - first:
+      213: 21300002
+    second: RaptorSpriteSheet_1
+  - first:
+      213: 21300004
+    second: RaptorSpriteSheet_2
+  - first:
+      213: 21300006
+    second: RaptorSpriteSheet_3
+  - first:
+      213: 21300008
+    second: RaptorSpriteSheet_4
+  - first:
+      213: 21300010
+    second: RaptorSpriteSheet_5
+  - first:
+      213: 21300012
+    second: RaptorSpriteSheet_6
+  - first:
+      213: 21300014
+    second: RaptorSpriteSheet_7
+  - first:
+      213: 3696492160703347760
+    second: RaptorSpriteSheet_8
+  - first:
+      213: -5937380846527805900
+    second: RaptorSpriteSheet_9
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -64,7 +88,7 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -75,7 +99,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -86,7 +111,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -97,7 +123,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -108,7 +135,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -119,125 +147,216 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RaptorTreatment_0
+      name: RaptorSpriteSheet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 970
-        width: 1570
-        height: 970
+        y: 969
+        width: 1253
+        height: 969
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b49f88d16d8a4a23af67280ad1b50bf
+      spriteID: abf77f75d5fe241f3b106b2298faada6
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RaptorTreatment_1
+      name: RaptorSpriteSheet_1
       rect:
         serializedVersion: 2
-        x: 1569
-        y: 970
-        width: 1571
-        height: 970
+        x: 1253
+        y: 969
+        width: 1253
+        height: 969
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73f80b327d0ec4b788626deb7ef3ad33
+      spriteID: 8b64c68a790e143f3b02768b937a1a3d
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RaptorTreatment_2
+      name: RaptorSpriteSheet_2
       rect:
         serializedVersion: 2
-        x: 3140
-        y: 970
-        width: 1570
-        height: 970
+        x: 2506
+        y: 969
+        width: 1253
+        height: 969
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8938bffff2a8b45d9ab55765f83bb91b
+      spriteID: c5d40f1154f3c4233a0d76b9a3a50fc1
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RaptorTreatment_3
+      name: RaptorSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 969
+        width: 1253
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d1e948d765d4530acac31ff5fa93fa
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaptorSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 969
+        width: 1253
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7b1598fa4dd4da0a2383df9ca5471e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaptorSpriteSheet_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 2
-        width: 1570
-        height: 970
+        y: 0
+        width: 1253
+        height: 969
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd1d8e423f8ed4d239237d3fcf82639f
+      spriteID: 68d4c75548a5b42faa0633c16dae4f1e
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RaptorTreatment_4
+      name: RaptorSpriteSheet_6
       rect:
         serializedVersion: 2
-        x: 1569
+        x: 1253
         y: 0
-        width: 1571
-        height: 970
+        width: 1253
+        height: 969
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d8fd43aaee4347db933c646a7b95513
+      spriteID: fc97f4108be7f47ac844c35fc8ed1a5c
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RaptorTreatment_5
+      name: RaptorSpriteSheet_7
       rect:
         serializedVersion: 2
-        x: 3140
+        x: 2506
         y: 0
-        width: 1570
-        height: 970
+        width: 1253
+        height: 969
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: daf1e0212d61146829cfb513f18694ec
+      spriteID: 4502a91d62d3a40eeb243a80f6bd7a82
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaptorSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 0
+        width: 1253
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c49a79b5d8de44b1873cd52a567ebf0
+      internalID: 3696492160703347760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaptorSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 1253
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3ad1d062c3441095f2d0bf54942c1
+      internalID: -5937380846527805900
       vertices: []
       indices: 
       edges: []
@@ -245,11 +364,13 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: e5401174dd2b3482ca601a1c90eb1e3f
+    spriteID: e5da1e78b0f9d42109cf327a4f0f0ddc
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 1
