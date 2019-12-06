@@ -21,8 +21,8 @@
     ├── ...
     ├── Assets                    
     │   ├── Animations           # 
-    │   ├── Audio            	 # 
-    │   ├── Media            	 # 
+    │   ├── Audio            # 
+    │   ├── Media            # 
     │   ├── Scenes               #      
     │   ├── Scripts              #               
     │   └── Sprites              # 
