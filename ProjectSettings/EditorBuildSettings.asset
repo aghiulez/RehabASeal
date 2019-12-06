@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu/MainMenuScene.unity
+    guid: 4a4509dd98376a841aec713724164f63
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/CharacterSelection/SelectStoryScene.unity
+    guid: 3e48c8a7af280764685c250d395286d1
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiDiagnose.unity
+    guid: 568421a5e95d9457b8998e34a63f6ee1
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiDiagnose2.unity
+    guid: f0c6d8a4d65b746dd97df161a412e721
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiDiagnose3.unity
+    guid: f4646ce31e6cb4151bb0a359a58f0eef
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiDiagnose4.unity
+    guid: 1d11353e1721046bda74ebbc2fdadd2b
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiDiagnose5.unity
+    guid: 0288a1877718841b99826e3190732a73
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiDiagnose6.unity
+    guid: 2fdb909a0aa4a4f6bbb0de9d8c7d9cfc
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiTreatment1.1.unity
+    guid: 5eeba959004c24f4398e15301c8262a4
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiTreatment1.2.unity
+    guid: 3ad188c8439ad49feafe3822cb2c8d27
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiTreatment1.3.unity
+    guid: 0d8b1be308f92445eb65fb6e33f79161
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiPostTreatment1.1.unity
+    guid: e4f02d29c0c6246f6a6e1cc25ec46b15
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiPostTreatment1.2.unity
+    guid: e7beeeb04b4694529a488d1c8360da0c
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiPrompt.unity
+    guid: a99c26e41f5964a4699ef24303de495c
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiTreatment3.1.unity
+    guid: ec47496993c74467eb997ae4c57a2599
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiTreatment3.2.unity
+    guid: 520642a5b964d4029b3b5f067dfe0d26
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiTreatment3.3.unity
+    guid: 19a028a809cb04b6ba52179c3abc2e06
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiTreatment3.4.unity
+    guid: 9720743d4cb1b48a49ebe370e7ba4121
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiPostTreatment3.1.unity
+    guid: 776f55a1c0014483b9c47626f49f9023
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiPostTreatment3.2.unity
+    guid: 6ef9053763cfe4e628b9f27efc6876ed
+  - enabled: 0
+    path: Assets/Scenes/Mimi/MimiStory.unity
+    guid: d6b007601acfc4c91b74dd40c0eceadf
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorDiagnose.unity
+    guid: 361a5ad27e0054017baf51d871563406
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorDiagnose2.unity
+    guid: 70df9491e322f454f80f9543ad4af023
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorDiagnose3.unity
+    guid: eb11e4915b024429ea503fe3f693c2fd
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorDiagnose4.unity
+    guid: 051729405a8af4eaaac90541bf13a799
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorDiagnose5.unity
+    guid: b345a9b5ce505409798b0f36411bc080
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorDiagnose6.unity
+    guid: 079871e92e445414d82515188e968f49
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorDiagnose7.unity
+    guid: d3e81fe173ca145f4afe5bd2d3d3ad3b
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorTreatment1.unity
+    guid: d7623cb55f53f4c4f8df239757cbf941
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorTreatment2.unity
+    guid: 84e694df2b26345aaa16ea5f7f1e3f86
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorTreatment3.unity
+    guid: c8289f508ad524a7fa4444457cde5efb
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorTreatment4.unity
+    guid: 5ba5bd72db88b44bcb290b72e1ff31eb
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorTreatment5.unity
+    guid: a79360eac7ed4454d83778cfd7bc0e38
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorPostTreatment1.unity
+    guid: 9101ec547cc51479db2087a84a43d954
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorPostTreatment2.unity
+    guid: 19f07a2f888c14b2383f4206d63edc05
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorPostTreatment3.unity
+    guid: 47a1b461dbec84521b4601578aaff129
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorPostTreatment4.unity
+    guid: 014cb214c50e548828191231e3ab505f
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorPostTreatment5.unity
+    guid: ef9102670a9a8435b9accd2cee93240c
+  - enabled: 1
+    path: Assets/Scenes/Raptor/RaptorStory.unity
+    guid: d158b3a1c1d794c51a68bba8789d3d7c
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaDiagnose.unity
+    guid: 67b32a21dd84f423cb0a8e726fdb686a
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaDiagnose2.unity
+    guid: 1344cc848a9bc43a0a0514c32e665b95
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaDiagnose3.unity
+    guid: 1ee3bc321415b43c5abc7426d5c7914f
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaDiagnose4.unity
+    guid: 68ec0e5490e2b418d8962769eb81f3ad
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaDiagnose5.unity
+    guid: 95a5e439dcfe64c58915689d5824b470
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffDiagnose.unity
+    guid: 18a7a4b81a6794009ba69c4d422ead5a
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffDiagnose2.unity
+    guid: 89c12aae9092d41a696474740d4f67cb
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaTreatment1.unity
+    guid: db68bc1736bf0429b9cb5681da6389d5
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaTreatment2.unity
+    guid: 504246213043e4c6ca86096a2b71355f
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaTreatment3.unity
+    guid: 1fbb485ecb96e4d17ae2a791fa722460
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaTreatment4.unity
+    guid: 84b20d060677143d0ac851efa1a661f8
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaPostTreatment1.unity
+    guid: eab22a1fa3f144ba88ae898367067ca6
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaPostTreatment2.unity
+    guid: 2687b85810d674fe7ab5b69e22a3b4e1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaPostTreatment3.unity
+    guid: 9db18bf6e9b8848a994d4a530a40ae4d
+  - enabled: 1
+    path: Assets/Scenes/Roma/RomaStory.unity
+    guid: c7ca695404f5f443c83c312e80b356c2
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffDiagnose3.unity
+    guid: f5c145a1f4fcb44a29824a17631544e3
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffDiagnose4.unity
+    guid: d7012b07748994bf4b8c4e15a110b16b
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffDiagnose5.unity
+    guid: a989446b07b924ffab4f9f222981f4ec
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffDiagnose6.unity
+    guid: 78303da5663b7468090d2af2571e9a27
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffTreatment1.unity
+    guid: 1c509883ac83849f8be3e80be79f9413
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffTreatment2.unity
+    guid: fb7bbb59d535547038e79df97b3a2cfa
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffTreatment3.unity
+    guid: 4c84120f72a9048b79217c9246f9ecd0
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffTreatment4.unity
+    guid: 7557a54f7fd44434a87ec20c5f6ac3d0
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffPostTreatment1.unity
+    guid: 29e6c76245c14497983ab4e7a7e152f1
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffPostTreatment2.unity
+    guid: e03c112731ab345afb2aad65ee6838a4
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffPostTreatment3.unity
+    guid: d3ddc0dd5b659416798df5795c957cd8
+  - enabled: 1
+    path: Assets/Scenes/Sheriff/SheriffStory.unity
+    guid: c5927cba08a464404b43cb0b7405e1dd
+  m_configObjects: {}
