@@ -31,3 +31,7 @@
     │   └── Sprites              # custom drawn sprites (i.e. tools and seals)
     └── ...  
 
+
+
+## Manually Configure Videos/Ending Credits 
+> Individual animal stories must be configured manually 
