@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu Scenes/Menu/MainMenuScene.unity
+    path: Assets/Scenes/Menu Scenes/MainMenuScene.unity
     guid: 4a4509dd98376a841aec713724164f63
   - enabled: 1
-    path: Assets/Scenes/Menu Scenes/CharacterSelection/SelectStoryScene.unity
+    path: Assets/Scenes/Menu Scenes/SelectStoryScene.unity
     guid: 3e48c8a7af280764685c250d395286d1
   - enabled: 0
     path: Assets/Scenes/Mimi/MimiDiagnose.unity
