@@ -5,9 +5,7 @@
 
 ***Unity Version:** 2019.2.1f1* 
 
-![GameView](https://user-images.githubusercontent.com/29055643/70387707-ab354900-19c1-11ea-8e89-7cee98576c84.png)
-
-
+![SomeScenes](https://user-images.githubusercontent.com/29055643/70387757-7ecdfc80-19c2-11ea-985a-db4041a103fa.png)
 
 ## Folder Structure 
 > Top level folder structure of RehabASeal
