@@ -206,4 +206,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sheriff/SheriffStory.unity
     guid: c5927cba08a464404b43cb0b7405e1dd
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58ce0b5b5c15936448f773b3dd4901ce,
+      type: 2}
