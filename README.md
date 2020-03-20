@@ -35,4 +35,4 @@
 
 
 ## Manually Configure Videos/Ending Credits 
-> Individual animal stories must be configured manually due to GitHub's repository size limitations.
+> Individual animal stories must be configured manually 
