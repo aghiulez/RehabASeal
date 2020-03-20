@@ -12,62 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu Scenes/SelectStoryScene.unity
     guid: 3e48c8a7af280764685c250d395286d1
   - enabled: 0
-    path: Assets/Scenes/Mimi/MimiDiagnose.unity
-    guid: 568421a5e95d9457b8998e34a63f6ee1
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiDiagnose2.unity
-    guid: f0c6d8a4d65b746dd97df161a412e721
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiDiagnose3.unity
-    guid: f4646ce31e6cb4151bb0a359a58f0eef
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiDiagnose4.unity
-    guid: 1d11353e1721046bda74ebbc2fdadd2b
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiDiagnose5.unity
-    guid: 0288a1877718841b99826e3190732a73
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiDiagnose6.unity
-    guid: 2fdb909a0aa4a4f6bbb0de9d8c7d9cfc
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiTreatment1.1.unity
-    guid: 5eeba959004c24f4398e15301c8262a4
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiTreatment1.2.unity
-    guid: 3ad188c8439ad49feafe3822cb2c8d27
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiTreatment1.3.unity
-    guid: 0d8b1be308f92445eb65fb6e33f79161
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiPostTreatment1.1.unity
-    guid: e4f02d29c0c6246f6a6e1cc25ec46b15
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiPostTreatment1.2.unity
-    guid: e7beeeb04b4694529a488d1c8360da0c
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiPrompt.unity
-    guid: a99c26e41f5964a4699ef24303de495c
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiTreatment3.1.unity
-    guid: ec47496993c74467eb997ae4c57a2599
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiTreatment3.2.unity
-    guid: 520642a5b964d4029b3b5f067dfe0d26
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiTreatment3.3.unity
-    guid: 19a028a809cb04b6ba52179c3abc2e06
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiTreatment3.4.unity
-    guid: 9720743d4cb1b48a49ebe370e7ba4121
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiPostTreatment3.1.unity
-    guid: 776f55a1c0014483b9c47626f49f9023
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiPostTreatment3.2.unity
-    guid: 6ef9053763cfe4e628b9f27efc6876ed
-  - enabled: 0
-    path: Assets/Scenes/Mimi/MimiStory.unity
-    guid: d6b007601acfc4c91b74dd40c0eceadf
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Raptor/RaptorDiagnose.unity
     guid: 361a5ad27e0054017baf51d871563406
@@ -161,9 +107,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Roma/RomaPostTreatment2.unity
     guid: 2687b85810d674fe7ab5b69e22a3b4e1
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Roma/RomaPostTreatment3.unity
     guid: 9db18bf6e9b8848a994d4a530a40ae4d
@@ -206,4 +149,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sheriff/SheriffStory.unity
     guid: c5927cba08a464404b43cb0b7405e1dd
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
