@@ -6,6 +6,6 @@ public class PayPal : MonoBehaviour
 {
     public void OpenURL()
     {
-        Application.OpenURL("https://www.pacificmmc.org/donate");
+        Application.OpenURL("https://apps.pacificmmc.org/donate");
     }
 }
