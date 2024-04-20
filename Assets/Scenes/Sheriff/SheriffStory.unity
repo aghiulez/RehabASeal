@@ -2431,21 +2431,21 @@ VideoPlayer:
   m_TargetMaterialProperty: _MainTex
   m_RenderMode: 2
   m_AspectRatio: 2
-  m_DataSource: 0
+  m_DataSource: 1
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: 
+  m_Url: https://live.staticflickr.com/video/53667204494/73b88865a5/1080p.mp4?s=eyJpIjo1MzY2NzIwNDQ5NCwiZSI6MTcxMzY0MzgxMywicyI6IjY0YmVmNTg1ODU4NjU2Yjc2NGFkNGY2MjdlMmUwZGU4MTBmYWRkZmMiLCJ2IjoxfQ
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
   m_SkipOnDrop: 1
   m_Looping: 0
-  m_WaitForFirstFrame: 1
+  m_WaitForFirstFrame: 0
   m_FrameReadyEventEnabled: 0
 --- !u!1 &2040315247
 GameObject:
