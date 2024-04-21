@@ -511,6 +511,7 @@ GameObject:
   - component: {fileID: 214869403}
   - component: {fileID: 214869402}
   - component: {fileID: 214869401}
+  - component: {fileID: 214869404}
   m_Layer: 5
   m_Name: VideoPlayer
   m_TagString: Untagged
@@ -652,7 +653,7 @@ VideoPlayer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 214869399}
-  m_Enabled: 1
+  m_Enabled: 0
   m_VideoClip: {fileID: 32900000, guid: 86e8c420315e3da4387a61c598d61653, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
@@ -670,15 +671,29 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: https://live.staticflickr.com/video/53667138423/ecbb93e5a3/1080p.mp4?s=eyJpIjo1MzY2NzEzODQyMywiZSI6MTcxMzY0NzgxMiwicyI6IjEzZGM4OTA5MmM5MDViNTIxNzI3OTBkMTEyNmRkYTRmMTZiYWNkNTQiLCJ2IjoxfQ
+  m_Url: https://storage.googleapis.com/rehab_a_seal/Raptor%20Release%20CLS%20version.mov
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
   m_SkipOnDrop: 1
-  m_Looping: 0
+  m_Looping: 1
   m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
+--- !u!114 &214869404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214869399}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e74d272483b88bb49a7ae0113f94fb49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _videoplayer: {fileID: 214869403}
+  URL: https://drive.google.com/uc?export=download&id=11_lmdg3yQLDORESNrvGgdeuMZkJYfuqS
 --- !u!1 &305323879
 GameObject:
   m_ObjectHideFlags: 0
@@ -2407,7 +2422,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 143, y: -59.009888}
+  m_AnchoredPosition: {x: 143, y: -59.01001}
   m_SizeDelta: {x: 191.90002, y: 117.400024}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1989852058

@@ -11,7 +11,7 @@ public class videoPlayer : MonoBehaviour
     { 
 
         // pause the background music
-//        FindObjectOfType<AudioManager>().pauseBackgroundMusic = true;
+       FindObjectOfType<AudioManager>().pauseBackgroundMusic = true;
 
         yield return new WaitForSeconds(1.2f);
 
